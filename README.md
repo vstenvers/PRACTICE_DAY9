@@ -4,8 +4,11 @@
 
 *Purpose: Example on how to create a project in GitHub*
 
-### Step 0: DATA_REPOSITORY
+## Folder DATA_REPOSITORY
 Contains orignal file to be linked to the following steps 
+
+## Folder GITHUB_TEST
+Contains the steps listed below
 
 ## Step 1: ANNOTATION_1
 Link data from DATA_REPOSITORY to the file 
