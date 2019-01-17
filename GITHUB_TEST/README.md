@@ -1,4 +1,4 @@
-# Test Practical Bioinformatics for Biologists
+# GitHub_Test folder
 
 *Author: V. Stenvers*
 
